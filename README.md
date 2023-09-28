@@ -2,7 +2,6 @@
 
 Тестируемый сайт https://skillfactory.ru/
 
-Окружение: Windows 11, Google chrome версия - 116.0.5845.188, Java(TM) SE Development Kit 20.0.1 (64-bit).
 
 Запуск тестов осуществляется при помощи кнопок Alt+Shift+F10, либо кликом правой клавишей мыши по имени класса SFRunTest и далее в открывшемся меню - Run.
 
